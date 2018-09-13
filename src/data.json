@@ -1,0 +1,40 @@
+{
+  "events": [
+    {
+      "date": "2018/09/17",
+      "description": "Dans le cadre de la première semaine Blockchain de Sherbrooke :Comment coder une Blockchain?\nTalk #1 : détails à venir\nTalk #2 : Création d'applications décentralisées + Ethereum\nPar\nJean-Sébastien Guillemette, de Doors Open Media.\nDepuis l’arrivée de Bitcoin, plusieurs autres solutions distribuées ont émergé permettant la création de contrats intelligents. Ces contrats permettent beaucoup plus que la simple transaction monétaire, mais également la création d’applications décentralisées (Dapp). Cette présentation portera sur la création d’applications décentralisées utilisant les réseaux distribués. Il y aura également un atelier de groupe pour créer un réseau privé Ethereum et interagir avec un contrat intelligent.\nTu veux présenter quelque chose ? Contacte-nous !",
+      "imageUrl": "https://cdn-images-1.medium.com/max/1500/1*3hyWN8UhcrL7P0Opbu7IQg.jpeg",
+      "title": "Techno Drink #30 : Comment coder une Blockchain?"
+    },
+    {
+      "date": "2018/09/17",
+      "description": "Talk #1 : React-Native: Développer une application mobile multi-plateforme avec des ressources limitées par Jessy Lachapelle de L'Université de Sherbrooke.\nTalk #2 : Un talk sur l’expérience de développement mobile chez Classcraft par Nicolas Charpentier de Classcraft : à mi-chemin entre le natif et React Native, le partage de code entre mobile et Web. Et si le temps le permet : un bonus sur le déploiement automatisé !\nVenez nombreux ! Invitez vos ami(e)s !",
+      "imageUrl": "https://spzone-simpleprogrammer.netdna-ssl.com/wp-content/uploads/2016/12/Mobile-Development-Done-1024x576.png",
+      "title": "Techno Drink #29 : Développement Mobile"
+    },
+    {
+      "date": "2018/08/15",
+      "description": "Techno Drink spécial en formule débat :\nComment bien choisir sa plateforme d'hébergement cloud?\nAWS, Azure, Google cloud, …\nApproche Hybrid-cloud / Private Cloud / PaaS / IaaS / Baremetal / Interne ?\nNos panélistes seront :\nAlexandre Dubé d'Agilean, modérateur\nBenoit St André, CTO de PMC Tire\nStéphane Guillemette de Classcraft\nKenny Doorman de GoAxial\nTu veux présenter quelque chose ? Contacte-nous !",
+      "imageUrl": "https://secure.meetupstatic.com/photos/event/d/2/7/6/highres_473453878.jpeg",
+      "title": "Techno Drink #28 : Comment choisir sa plateforme d'hébergement"
+    },
+    {
+      "date": "2018/07/18",
+      "description": "Thème du TD ce mois-ci : Les bonnes pratiques en UX!\nTalk #1 : UI, la pointe de l’iceberg UX\nPrésentation sur l’importance de comprendre ce que nos utilisateurs veulent accomplir (leurs buts) pour dépasser leurs attentes\n Présenté par :\nPierre Roberge, product designer chez Wolters Kluwer.\nTalk #2 : Qu’est-ce que le UX?\nAu sens UX, une expérience réussie est un moment vécu par un utilisateur pendant lequel ses interactions avec un produit ou un service lui permettent d’accomplir aisément des tâches qui lui sont utiles et de ressentir des émotions agréables.\nPrésenté Par:\nAnnédith Lacharité, Conseillère en design UX/UI\nGeneviève Desautels, Conseillère en développement Web, Service des communications, Université de Sherbrooke\nVenez nombreux ! Invitez vos ami(e)s !",
+      "imageUrl": "https://secure.meetupstatic.com/photos/event/d/3/0/6/highres_472794022.jpeg",
+      "title": "Techno Drink #27 : UX Best practices"
+    },
+    {
+      "date": "2018/06/20",
+      "description": "Thème du TD ce mois-ci : Frontend Web Dev !\nTALK #1 : Sentry : outil de surveillance des plantages d'applications en production, par Dominic Marcotte.\nDominic va présenter les nombreux avantages d'ajouter Sentry à votre palette d'outils de développement que ce soit pour le Web ou le mobile. Vous êtes développeur, gestionnaire ou responsable du support aux usagers, découvrez tout ce qu'offre ce produit open-source.\nDominic Marcotte a plus de 22 années d'expérience en développement\nIl travaille comme développeur pour l'Université de Sherbrooke depuis 14 ans.\nTALK #2 : Créer une Single-Page Application avec VueJs\nApprenez comment batir une Single-Page Application avec VueJs, un framework qui connait une hausse fulgurante de popularité, et tout l'outillage l'accompagnant, incluant Vetur, Vuex et Vue DevTools.\nPar Tommy Savaria : Tommy Savaria est un étudiant en génie informatique à l'Université de Sherbrooke passionné d'informatique à tous les niveaux. Il a travaillé avec une gamme de technologies différentes chez Calimacil, 8D Technologies, PMCTire et l'AGEG avant son actuel stage chez Myca.\nIl sera en direct live depuis Québec !",
+      "imageUrl": "https://secure.meetupstatic.com/photos/event/4/5/b/c/highres_472157852.jpeg",
+      "title": "Techno Drink #26 : Frontend Web Dev !"
+    },
+    {
+      "date": "2018/09/17",
+      "description": "Thème du TD ce mois-ci : Stack MEAN !\nTalk #1 : Pier-Luc Gendreau de Classcraft sur MongoDB 3.6 Change Streams\nTalk #2 : Angular CLI par Annie Sinotte de chez HyperShell\nTalk #3 : une présentation de Gabriel Champagne de chez Wolters Kluwer",
+      "imageUrl": "https://secure.meetupstatic.com/photos/event/1/0/2/f/highres_470884143.jpeg",
+      "title": "Techno Drink #25 : Stack MEAN"
+    }
+  ]
+}
